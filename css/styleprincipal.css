@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+.main-area {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.main-area div {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 30%;
+}
+.main-area div h2 {
+    text-align: center;
+}
